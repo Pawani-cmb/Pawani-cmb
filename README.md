@@ -44,6 +44,6 @@
 <p align="center">
   💜 Thank you for visiting my profile!
   <br />
-  <b>Keep Learning • Keep Growing 🚀</b>
+  <b>Keep Learning , Keep Growing </b>
 </p>
 
