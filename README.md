@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="./profile-banner.png" width="100%" alt="Coding Banner" />
-</p>
-
 <h1 align="center">Hi, I'm Pawani Chethana! 👋</h1>
 
 <h3 align="center">🎓 Software Engineering Student | Learning and Growing</h3>
