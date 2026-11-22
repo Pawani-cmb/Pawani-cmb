@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SquishyJam&size=30&duration=4000&pause=50000e&color=1665CC&center=true&vCenter=true&width=900&lines=Hi+I'm+Pawani+Chethana!+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Squishy-Jam&size=30&duration=4000&pause=50000e&color=1665CC&center=true&vCenter=true&width=900&lines=Hi+I'm+Pawani+Chethana!+👋" />
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1200&color=1665CC&center=true&vCenter=true&width=900&lines=🎓+Software+Engineering+Student;Learning+Software+Development;Exploring+Programming+Languages;Building+Projects+and+Skills" />
