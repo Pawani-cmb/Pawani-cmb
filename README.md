@@ -1,9 +1,5 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=DM+Serif+Text:ital@0;1&family=Redaction+35:ital,wght@0,400;0,700;1,400&display=swap');
-</style>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Redaction35&size=30&duration=4000&pause=50000e&color=1665CC&center=true&vCenter=true&width=900&lines=Hi+I'm+Pawani+Chethana!+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=SquishyJam&size=30&duration=4000&pause=50000e&color=1665CC&center=true&vCenter=true&width=900&lines=Hi+I'm+Pawani+Chethana!+👋" />
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1200&color=1665CC&center=true&vCenter=true&width=900&lines=🎓+Software+Engineering+Student;Learning+Software+Development;Exploring+Programming+Languages;Building+Projects+and+Skills" />
