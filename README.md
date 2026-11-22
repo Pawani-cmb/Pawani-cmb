@@ -1,10 +1,9 @@
-<h1 align="center">Hi, I'm Pawani Chethana! 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1200&color=FFD230&center=true&vCenter=true&width=900&lines=Hi+I'm+Pawani+Chethana!+👋" />\
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1200&color=FFD230&center=true&vCenter=true&width=900&lines=🎓+Software+Engineering+Student;Learning+Software+Development;Exploring+Programming+Languages;Building+Projects+and+Skills" />
 </p>
-
-<!-- <h3 align="center">🎓 Software Engineering Student | Learning and Growing</h3> -->
 
 ---
 
